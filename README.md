@@ -1,2 +1,2 @@
-# DataCamp-Projects
+# DataCamp Projects
 Datacamp projects
