@@ -1,4 +1,4 @@
 # DataCamp Projects
 Datacamp projects
 
-![regular](https://user-images.githubusercontent.com/66647718/203878006-8c93770a-4b0c-4251-bab3-30f17ab16c0a.png)
+![DC_New_mugdv8](https://user-images.githubusercontent.com/66647718/203878212-8ec7de3d-db1f-4f53-a7f4-d593cd27c355.JPG)
