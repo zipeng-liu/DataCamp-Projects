@@ -10,6 +10,6 @@
 
 ## R
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
-| Seconds | 301   | 283   |
+| Project | Description | 
+| :-----: | :---: | 
+| `Rise and Fall of Programming Languages` | Analyze the relative popularity of programming languages over time based on Stack Overflow data.| 
