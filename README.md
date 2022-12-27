@@ -17,6 +17,7 @@
 | :----- | :--- | 
 | `Rise and Fall of Programming Languages` | Analyze the relative popularity of programming languages over time based on Stack Overflow data. | 
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
+| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. |
 
 
 ## SQL
