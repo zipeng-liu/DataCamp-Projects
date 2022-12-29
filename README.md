@@ -16,9 +16,9 @@
 | Project | Description | Topics |
 | :----- | :--- | 
 | `Rise and Fall of Programming Languages` | Analyze the relative popularity of programming languages over time based on Stack Overflow data. | `Data Manipulation` `Data Visualization` `Importing & Cleaning Data` |
-| `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. |
-| `Who Is Drunk and When in Ames, Iowa?` | Flex your data manipulation muscles on breath alcohol test data from Ames, Iowa, USA. |
+| `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? | |
+| `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | |
+| `Who Is Drunk and When in Ames, Iowa?` | Flex your data manipulation muscles on breath alcohol test data from Ames, Iowa, USA. | |
 
 
 ## SQL
