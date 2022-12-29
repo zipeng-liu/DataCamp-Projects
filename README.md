@@ -15,10 +15,7 @@
 
 | Project | Description | Topics |
 | :---- | :---- | :---- |
-| [Rise and Fall of Programming Languages](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/Rise%20and%20Fall%20of%20Programming%20Languages) | Analyze the relative popularity of programming languages over time based on Stack Overflow data. | 
-- `Data Manipulation` 
-- `Data Visualization` 
--  `Importing & Cleaning Data` |
+| [Rise and Fall of Programming Languages](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/Rise%20and%20Fall%20of%20Programming%20Languages) | Analyze the relative popularity of programming languages over time based on Stack Overflow data. | <ul><li>`Data Manipulation`</li><li>`Data Visualization` </li><li>`Importing & Cleaning Data`</li></ul> |
 | `A Visual History of Nobel Prize Winners` | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? | |
 | `Dr. Semmelweis and the Discovery of Handwashing` | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | |
 | `Who Is Drunk and When in Ames, Iowa?` | Flex your data manipulation muscles on breath alcohol test data from Ames, Iowa, USA. | |
