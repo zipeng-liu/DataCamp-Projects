@@ -17,8 +17,9 @@
 | :---- | :---- | 
 | [Rise and Fall of Programming Languages](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/Rise%20and%20Fall%20of%20Programming%20Languages) | Analyze the relative popularity of programming languages over time based on Stack Overflow data. |
 | [A Visual History of Nobel Prize Winners](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/A%20Visual%20History%20of%20Nobel%20Prize%20Winners) | Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed? |
-| Dr. Semmelweis and the Discovery of Handwashing | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | 
-| Who Is Drunk and When in Ames, Iowa? | Flex your data manipulation muscles on breath alcohol test data from Ames, Iowa, USA. | 
+| [Dr. Semmelweis and the Discovery of Handwashing](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing) | Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing. | 
+| [Who Is Drunk and When in Ames, Iowa?](https://github.com/zipeng-liu/DataCamp-Projects/tree/main/R/Who%20Is%20Drunk%20and%20When%20in%20Ames%2C%20Iowa%3F) | Flex your data manipulation muscles on breath alcohol test data from Ames, Iowa, USA. | 
+| | |
 
 
 ## SQL
